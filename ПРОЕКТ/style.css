@@ -1,0 +1,114 @@
+.gradient-text {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;  
+  font-size: 30px;
+  text-transform: uppercase;
+  background: linear-gradient(45deg, #490b0b 33%, #840032 66%, #d68a8a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+  display: table;
+  margin: 20px auto;
+  text-align: justify;
+}
+body {
+    margin: 0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    line-height: 1.6;
+    color: black;
+    margin-left:70px;
+    margin-right:70px;
+    text-align: justify;
+    user-select: none;
+    background-color: #ffffff;
+}
+.color {
+  font-size: 22px;
+  color: #92140c;
+}
+.color-red {
+  font-size: 20px;
+  color:#92140c;
+}
+.color-red2 {
+  font-size: 30px;
+  color:#92140c;
+}
+.plz {
+  font-size: 15px;
+  color:#92140c;
+}
+.image-right {
+  float: right;
+  margin-left: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  max-width: 400px;
+}
+.image-right2 {
+  float: right;
+  margin-left: 40px;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+.image-right3 {
+  float: right;
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.o { min-height: 350px;
+  font-size: 25px;
+  color: #490b0b;
+}
+.cont { min-height: 430px;
+  background-image: url(naccallo.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: bottom;
+}
+.image-left { min-height: 370px;
+  float: left;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  margin-right: 40px;
+  max-width: 500px;
+  text-align: center;
+  image-orientation: bottom;
+}
+.image-left2 {
+  float: left;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: 40px;
+  text-align: center;
+  image-orientation: bottom;
+}
+.image-left3 {
+  float: left;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: 40px;
+  text-align: center;
+}
+.vertical-bar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  width: 55px; 
+  background-color: #800000;
+  z-index: -1;
+}
+.left-bar {
+  left: 0;
+}
+.right-bar {
+  right: 0;
+}
+.colll {
+  color: #590d22;
+}
+.nmr {
+  user-select: text;
+  color: #590d22;
+}
